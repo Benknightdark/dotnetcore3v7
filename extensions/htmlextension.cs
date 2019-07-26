@@ -43,7 +43,7 @@ namespace THSCMWeb.Extensions {
         }
 
 
-        #region Fucking Partial for
+        #region  Partial for
 
         public static IHtmlContent ParseHTML(this IHtmlHelper helper, string htmlString)
         {
