@@ -19,7 +19,7 @@ using Microsoft.AspNetCore.Routing;
 
 
 
-namespace THSCMWeb.Extensions {
+namespace dotnetcorev7.extensions {
     public static class HtmlExtensions {
 
         public static IHtmlContent Script(this IHtmlHelper htmlHelper, Func<object, HelperResult> template)
